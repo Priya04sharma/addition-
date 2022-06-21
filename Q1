@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+int a=5,b=9 ,c;
+//for doing normal sum 
+c=a+b;
+printf("sum of a+b=%d",c);
+
+return 0;
+}
